@@ -38,3 +38,7 @@ style="color: #0074D9"
 <font color="color:i;">Word up</font>
 
 {fg:blue}blue foreground{/fg:blue} {bg:red}red background{/bg:red} {fg:#ccc}Silver showing support for color numbers{/fg:#ccc}
+
+ ´´´´Deprecated
+ Something here
+ ´´´´
