@@ -22,3 +22,17 @@ style="color: #0074D9"
 <span style="color:b;">Word up</span>
 
 <span style="color:i;">Word up</span>
+
+<font color="green"> Some green text </font>
+
+<font color="color:orange;">Word up</font>
+
+<font color="color:hr;">Word up</font>
+
+<font color="color:br;">Word up</font>
+
+<font color="color:p;">Word up</font>
+
+<font color="color:b;">Word up</font>
+
+<font color="color:i;">Word up</font>
