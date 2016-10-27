@@ -13,3 +13,12 @@ style="color: #0074D9"
 
 <span style="color:orange;">Word up</span>
 
+<span style="color:hr;">Word up</span>
+
+<span style="color:br;">Word up</span>
+
+<span style="color:p;">Word up</span>
+
+<span style="color:b;">Word up</span>
+
+<span style="color:i;">Word up</span>
